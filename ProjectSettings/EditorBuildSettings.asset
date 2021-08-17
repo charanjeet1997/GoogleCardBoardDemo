@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/VRDemo.unity
+    guid: 9f6fe5e816f39874ba9adbc00eea37ba
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: b094a0d3b52b73c4cafa829f7374043a,
+      type: 2}
